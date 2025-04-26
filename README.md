@@ -65,3 +65,6 @@ plt.axis('off')
 
 ### Display the result of Hough transform
 ![image](https://github.com/user-attachments/assets/b2c10061-1f4d-4545-9e1f-df236600d07d)
+
+## RESULT:
+Thus the programs are executed successfully.
